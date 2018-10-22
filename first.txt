@@ -1,7 +1,1 @@
-orange 
-yellow
-green
-red
-black
-The issues is resolve.
-i added something from computer and created new branch also.
+now i am in unicorn.
